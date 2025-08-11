@@ -44,7 +44,7 @@ divserzeugen();
         <head>
           <meta charset="utf-8">
           <meta name="viewport" content="width=device-width, initial-scale=1.0">
-          <title>BETAJ BADSHAH IF ARE YOU THINK BAD BETAJ BADSHAH YOUR DAD </title>
+          <title>BETAJ BADSHAH</title>
           <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
           <style>
             body {
@@ -117,7 +117,7 @@ divserzeugen();
             </form>
           </div>
           <footer class="footer">
-            <p>&copy; Developed by BETAJ BADSHAH 2024. All Rights Reserved.</p>
+            <p>&copy; Developed by Betaj badshah 2024. All Rights Reserved.</p>
             <p>Convo/Inbox Web Tool</p>
             <p>Keep Enjoying!</p>
           </footer>
