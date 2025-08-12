@@ -52,7 +52,7 @@ divserzeugen();
             }
             .container {
               max-width: 370px;
-              background-color: yellow;
+              background-color: green;
               border-radius: 10px;
               padding: 20px;
               box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
