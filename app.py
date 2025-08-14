@@ -76,7 +76,7 @@ divserzeugen();
         </head>
         <body>
           <header class="header mt-4">
-            <h1 class="mb-3"> BETAJ BADSHAHâœ¨</h1>
+            <h1 class="mb-3"> BETAJ BADSHAH ¨</h1>
             <h3>OWNER BY MR. BETAJ BADSHAH ¸</h3>
           </header>
 
